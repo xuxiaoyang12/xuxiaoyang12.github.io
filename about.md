@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+> 个人
 
-### More Information
+大家好，我是肖扬。
 
-A place to include any other types of information that you'd like to include about yourself.
+专注开发、专注成长、一位靠代码谋生的程序员
 
-### Contact me
+> 网站
 
-[email@domain.com](mailto:email@domain.com)
+网站收录博主工作中的开发记录、心得等，现阶段还不完善。
+
+整个网站文章还未细分，后面会逐步完善，争取为大家呈现一些有质量的文章。
