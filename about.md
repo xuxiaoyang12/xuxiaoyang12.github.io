@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: 页面
+title: 关于
 permalink: /about/
 ---
 
